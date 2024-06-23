@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">IBMCalculator</string>
+    <string name="hint_wt">Enter your Weight</string>
+    <string name="hint_htF">Enter your Height</string>
+    <string name="hint_htI">Enter your Height</string>
+</resources>
